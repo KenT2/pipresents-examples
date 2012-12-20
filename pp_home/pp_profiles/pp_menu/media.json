@@ -1,0 +1,49 @@
+{
+ "tracks": [
+  {
+   "duration": "5", 
+   "location": "+/media/sarename.gif", 
+   "title": "Sarename", 
+   "track-ref": "", 
+   "transition": "cut", 
+   "type": "image"
+  }, 
+  {
+   "location": "+/media/Suits-short.mkv", 
+   "omx-audio": "", 
+   "title": "Trailer for Suits, should show sub-titles!", 
+   "track-ref": "", 
+   "type": "video"
+  }, 
+  {
+   "duration": "0", 
+   "message-colour": "white", 
+   "message-font": "Helvetica 30 bold", 
+   "text": "Welcome to Pi Presents", 
+   "title": "Duration is 0 so use 'Escape' to return", 
+   "track-ref": "", 
+   "type": "message"
+  }, 
+  {
+   "location": "+/media/01.mp3", 
+   "omx-audio": "", 
+   "title": "National Talking Express", 
+   "track-ref": "", 
+   "type": "video"
+  }, 
+  {
+   "location": "+/media/sunset.gif", 
+   "title": "Menu Background", 
+   "track-ref": "pp-menu-background", 
+   "type": "menu-background"
+  }, 
+  {
+   "duration": "5", 
+   "location": "", 
+   "title": "New Image", 
+   "track-ref": "", 
+   "transition": "cut", 
+   "type": "image"
+  }
+ ]
+}

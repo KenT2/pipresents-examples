@@ -1,0 +1,34 @@
+{
+ "tracks": [
+  {
+   "duration": "10", 
+   "message-colour": "white", 
+   "message-font": "Helvetica 30 bold", 
+   "text": "This examples is a continuous repeating mediashow\n\nA menu can belected during any track\n\nUSE for Vistor Centres where a slideshow is used to draw attention to the menu of videos\n", 
+   "title": "A message from the author", 
+   "track-ref": "", 
+   "type": "message"
+  }, 
+  {
+   "sub-show": "mymenu", 
+   "title": "Child Menu", 
+   "track-ref": "pp-child-show", 
+   "type": "show"
+  }, 
+  {
+   "duration": "5", 
+   "location": "+/media/sarename.gif", 
+   "title": "Sarename", 
+   "track-ref": "", 
+   "transition": "cut", 
+   "type": "image"
+  }, 
+  {
+   "location": "+/media/Suits-short.mkv", 
+   "omx-audio": "", 
+   "title": "Suits Short", 
+   "track-ref": "", 
+   "type": "video"
+  }
+ ]
+}

@@ -1,0 +1,37 @@
+{
+ "tracks": [
+  {
+   "duration": "10", 
+   "message-colour": "white", 
+   "message-font": "Helvetica 20 bold", 
+   "text": "You have sucessfuly triggered a show off a PIR\n\nThis show plays a few example tracks then waits for the trigger.\n\nA more realistic example might play a single audio track or a video\n\n\n\n", 
+   "title": "Welcome", 
+   "track-ref": "", 
+   "type": "message"
+  }, 
+  {
+   "location": "+/media/Suits-short.mkv", 
+   "omx-audio": "", 
+   "title": "Trailer for Suits", 
+   "track-ref": "", 
+   "type": "video"
+  }, 
+  {
+   "duration": "5", 
+   "location": "+/media/sarename.gif", 
+   "title": "Sarename", 
+   "track-ref": "", 
+   "transition": "cut", 
+   "type": "image"
+  }, 
+  {
+   "duration": "5", 
+   "message-colour": "red", 
+   "message-font": "Helvetica 30 bold", 
+   "text": "That's it, its a one shot\n", 
+   "title": "Bye", 
+   "track-ref": "", 
+   "type": "message"
+  }
+ ]
+}

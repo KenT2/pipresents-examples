@@ -1,0 +1,39 @@
+{
+ "tracks": [
+  {
+   "duration": "", 
+   "message-colour": "red", 
+   "message-font": "Helvetica 15 bold", 
+   "text": "First slide of the presentation\n\n - Left and right cursor will move/skip to the next slide\n\n - Escape will interrupt a slide and wait\n\n - When waiting Escape will restart or return to the higher level presentation\n\nAt the end of a video or audio track Pi presents will wait.\n \n\n\n\n", 
+   "title": "First", 
+   "track-ref": "", 
+   "type": "message"
+  }, 
+  {
+   "duration": "", 
+   "location": "+/media/sarename.gif", 
+   "title": "Sarename", 
+   "track-ref": "", 
+   "transition": "", 
+   "type": "image"
+  }, 
+  {
+   "duration": "", 
+   "message-colour": "white", 
+   "message-font": "Helvetica 20 bold", 
+   "text": "Slides can be:\n  - images\n  - videos\n  - audio tracks\n  - messages\n\n\n", 
+   "title": "Slides", 
+   "track-ref": "", 
+   "type": "message"
+  }, 
+  {
+   "duration": "", 
+   "message-colour": "white", 
+   "message-font": "Helvetica 30 bold", 
+   "text": "Last slide of presentation", 
+   "title": "Last", 
+   "track-ref": "", 
+   "type": "message"
+  }
+ ]
+}

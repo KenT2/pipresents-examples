@@ -1,0 +1,51 @@
+{
+"tracks":
+[
+ {
+  "title": "Say we are level 0",
+  "duration": "0",
+  "source": "text",
+  "message-font": "Helvetica 30 bold",
+  "message-colour": "white", 
+  "location": "At start of mediashow at level 0", 
+  "type": "message"
+ },
+ {
+  "title": "A message from the author",
+  "duration": "0",
+  "source": "text",
+  "message-font": "Helvetica 30 bold",
+  "message-colour": "white", 
+  "location": "Back from the child menu to mediashow at level 0", 
+  "type": "message"
+ },
+ {
+  "show": "menu-0",
+  "type": "menu"
+ },
+ {
+  "title": "A message from the author",
+  "duration": "10",
+  "source": "text",
+  "message-font": "Helvetica 30 bold",
+  "message-colour": "white", 
+  "location": "Back from the mediashow menu to mediashow at level 0", 
+  "type": "message"
+ },
+ {
+  "location": "+/media/sarename.gif", 
+  "title": "Sarename",
+  "duration": "5",
+  "transition": "cut", 
+  "type": "image"
+ }, 
+{
+
+  "alsa-audio": "local",
+  "location": "+/media/Suits-short.mkv",
+  "speaker": "", 
+  "title": "Trailer for Suits, should show sub-titles!", 
+  "type": "video"
+ }
+]
+}

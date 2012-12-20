@@ -1,0 +1,49 @@
+{
+ "tracks": [
+  {
+   "duration": "5", 
+   "message-colour": "white", 
+   "message-font": "Helvetica 30 bold", 
+   "text": "Welcome to Pi Presents", 
+   "title": "A message from the author", 
+   "track-ref": "", 
+   "type": "message"
+  },
+  { 
+   "title": "Menu", 
+   "track-ref": "",
+   "sub-show": "menu-internal", 
+   "type": "show"
+  },
+  { 
+   "title": "Child Menu", 
+   "track-ref": "pp-child-show",
+   "sub-show": "menu-internal", 
+   "type": "show"
+  },
+  {
+   "duration": "5", 
+   "location": "+/media/sarename.gif", 
+   "title": "Sarename", 
+   "track-ref": "", 
+   "transition": "cut", 
+   "type": "image"
+  },
+  {
+   "location": "+/media/Suits-short.mkv", 
+   "omx-audio": "hdmi ", 
+   "title": "Trailer for Suits, should show sub-titles!", 
+   "track-ref": "", 
+   "type": "video"
+  },
+  {
+   "duration": "5", 
+   "message-colour": "white", 
+   "message-font": "Helvetica 30 bold", 
+   "text": "Now repeat the show", 
+   "title": "Now to repeat the show", 
+   "type": "message",
+   "track-ref": ""
+  }
+ ]
+}
