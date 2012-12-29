@@ -4,17 +4,10 @@
    "duration": "10", 
    "message-colour": "white", 
    "message-font": "Helvetica 20 bold", 
-   "text": "You have sucessfuly triggered a show off a PIR\n\nThis show plays a few example tracks then waits for the trigger.\n\nA more realistic example might play a single audio track or a video\n\n\n\n", 
+   "text": "You have successfuly triggered a show off a PIR\n\nThis show plays a few example tracks then waits for the PIR trigger.\n\nA more realistic example might play a single audio track or a video.\n", 
    "title": "Welcome", 
    "track-ref": "", 
    "type": "message"
-  }, 
-  {
-   "location": "+/media/Suits-short.mkv", 
-   "omx-audio": "", 
-   "title": "Trailer for Suits", 
-   "track-ref": "", 
-   "type": "video"
   }, 
   {
    "duration": "5", 

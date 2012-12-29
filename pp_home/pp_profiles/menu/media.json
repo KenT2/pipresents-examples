@@ -36,14 +36,6 @@
    "title": "Menu Background", 
    "track-ref": "pp-menu-background", 
    "type": "menu-background"
-  }, 
-  {
-   "duration": "5", 
-   "location": "", 
-   "title": "New Image", 
-   "track-ref": "", 
-   "transition": "cut", 
-   "type": "image"
   }
  ]
 }

@@ -23,7 +23,7 @@
    "show-ref": "mymediashow", 
    "title": "Mediashow", 
    "transition": "cut", 
-   "trigger": "button", 
+   "trigger": "PIR", 
    "type": "mediashow"
   }
  ]
