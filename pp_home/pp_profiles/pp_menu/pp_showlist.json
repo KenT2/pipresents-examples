@@ -8,7 +8,7 @@
   }, 
   {
    "duration": "5", 
-   "entry-colour": "black", 
+   "entry-colour": "white", 
    "entry-font": "Helvetica 30 bold", 
    "entry-select-colour": "red", 
    "has-background": "yes", 

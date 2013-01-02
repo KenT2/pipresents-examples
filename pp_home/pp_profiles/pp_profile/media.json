@@ -1,0 +1,13 @@
+{
+ "tracks": [
+  {
+   "duration": "0", 
+   "message-colour": "white", 
+   "message-font": "Helvetica 20 bold", 
+   "text": "Welcome to Pi Presents\n\nRunning the profile pp_profile in /home/pi/pp_home", 
+   "title": "Hello World", 
+   "track-ref": "", 
+   "type": "message"
+  }
+ ]
+}

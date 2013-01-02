@@ -11,7 +11,7 @@
   }, 
   {
    "location": "+/media/Suits-short.mkv", 
-   "omx-audio": "local", 
+   "omx-audio": "hdmi", 
    "title": "Trailer for Suits, should show sub-titles!", 
    "track-ref": "", 
    "type": "video"
@@ -28,7 +28,7 @@
    "duration": "10", 
    "message-colour": "red", 
    "message-font": "Helvetica 30 bold", 
-   "text": "The show will be repeating soon....", 
+   "text": "The show will be repeating soon....\n\n", 
    "title": "Repeating soon", 
    "track-ref": "", 
    "type": "message"

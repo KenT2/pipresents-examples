@@ -11,7 +11,7 @@
    "has-child": "yes", 
    "hint-colour": "white", 
    "hint-font": "Helvetica 30 bold", 
-   "hint-text": "Press Play to show a menu", 
+   "hint-text": "Press Return to show a menu", 
    "hint-y": "100", 
    "medialist": "media.json", 
    "omx-audio": "hdmi", 

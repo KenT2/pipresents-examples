@@ -1,10 +1,10 @@
 {
  "tracks": [
   {
-   "duration": "10", 
+   "duration": "12", 
    "message-colour": "white", 
-   "message-font": "Helvetica 30 bold", 
-   "text": "This examples is a continuous repeating mediashow\n\nA menu can belected during any track\n\nUSE for Vistor Centres where a slideshow is used to draw attention to the menu of videos\n", 
+   "message-font": "Helvetica 20 bold", 
+   "text": "This example is a continuous repeating mediashow\n\nA menu can selected during any track\n\nUse  where a slideshow is used to draw attention to the menu of videos\n", 
    "title": "A message from the author", 
    "track-ref": "", 
    "type": "message"
@@ -22,13 +22,6 @@
    "track-ref": "", 
    "transition": "cut", 
    "type": "image"
-  }, 
-  {
-   "location": "+/media/Suits-short.mkv", 
-   "omx-audio": "", 
-   "title": "Suits Short", 
-   "track-ref": "", 
-   "type": "video"
   }
  ]
 }
