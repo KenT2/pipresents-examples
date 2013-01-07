@@ -21,7 +21,7 @@
    "menu-x": "300", 
    "menu-y": "250", 
    "omx-audio": "hdmi", 
-   "omx-other-options": "", 
+   "omx-other-options": "-t 1", 
    "show-ref": "mymenu", 
    "timeout": "0", 
    "title": "Menu", 
