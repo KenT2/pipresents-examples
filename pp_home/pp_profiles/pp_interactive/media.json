@@ -1,4 +1,5 @@
 {
+ "issue": "1.1", 
  "tracks": [
   {
    "duration": "12", 
@@ -20,6 +21,11 @@
    "location": "+/media/sarename.gif", 
    "title": "Sarename", 
    "track-ref": "", 
+   "track-text": "", 
+   "track-text-colour": "", 
+   "track-text-font": "", 
+   "track-text-x": "0", 
+   "track-text-y": "0", 
    "transition": "cut", 
    "type": "image"
   }
