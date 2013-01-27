@@ -1,0 +1,37 @@
+{
+ "issue": "1.1", 
+ "tracks": [
+  {
+   "duration": "", 
+   "location": "+/media/sarename.gif", 
+   "title": "sarename.gif", 
+   "track-ref": "", 
+   "track-text": "", 
+   "track-text-colour": "", 
+   "track-text-font": "", 
+   "track-text-x": "0", 
+   "track-text-y": "0", 
+   "transition": "cut", 
+   "type": "image"
+  }, 
+  {
+   "duration": "", 
+   "location": "+/media/sunset.gif", 
+   "title": "sunset.gif", 
+   "track-ref": "", 
+   "track-text": "", 
+   "track-text-colour": "", 
+   "track-text-font": "", 
+   "track-text-x": "0", 
+   "track-text-y": "0", 
+   "transition": "cut", 
+   "type": "image"
+  }, 
+  {
+   "location": "+/media/sunset.gif", 
+   "title": "Menu Background", 
+   "track-ref": "pp-menu-background", 
+   "type": "menu-background"
+  }
+ ]
+}

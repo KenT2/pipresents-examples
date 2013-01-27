@@ -1,0 +1,20 @@
+{
+ "issue": "1.1", 
+ "tracks": [
+  {
+   "duration": "5", 
+   "message-colour": "white", 
+   "message-font": "Helvetica 25 bold", 
+   "text": "An optional introductory track is followed by the LiveShow\n\nThe LiveShow has a child-show.\n\nThe LiveShow could have been run directly from the Start Show\n\n\n", 
+   "title": "Introduction", 
+   "track-ref": "", 
+   "type": "message"
+  }, 
+  {
+   "sub-show": "liveshow", 
+   "title": "Sub Liveshow", 
+   "track-ref": "", 
+   "type": "show"
+  }
+ ]
+}

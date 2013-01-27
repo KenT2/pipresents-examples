@@ -1,0 +1,11 @@
+{
+ "issue": "1.1", 
+ "tracks": [
+  {
+   "sub-show": "menu", 
+   "title": "New Child Show", 
+   "track-ref": "pp-child-show", 
+   "type": "show"
+  }
+ ]
+}
