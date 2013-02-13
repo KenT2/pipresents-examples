@@ -15,7 +15,7 @@
    "hint-text": "Press Return for Menu", 
    "hint-y": "100", 
    "medialist": "liveshow.json", 
-   "omx-audio": "local", 
+   "omx-audio": "hdmi", 
    "omx-other-options": "", 
    "show-ref": "liveshow", 
    "show-text": "", 
